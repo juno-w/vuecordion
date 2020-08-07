@@ -1,0 +1,11 @@
+.flex-1 {
+  flex: 1 1 0%;
+}
+
+.bg-gradient {
+  background: rgb(255,139,0);
+  background: -moz-linear-gradient(90deg, rgba(255,139,0,1) 0%, rgba(175,52,152,1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(255,139,0,1) 0%, rgba(175,52,152,1) 100%);
+  background: linear-gradient(90deg, rgba(255,139,0,1) 0%, rgba(175,52,152,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff8b00",endColorstr="#af3498",GradientType=1);
+}
